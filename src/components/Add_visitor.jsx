@@ -1,11 +1,12 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Navbar from './Navbar'
 
 const Add_visitor = () => {
+
   return (
     <div>
-      <Navbar/>
-      <br/>
+      <Navbar />
+      <br />
 
       <div className="container">
         <div className="row">
